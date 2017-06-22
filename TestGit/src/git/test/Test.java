@@ -6,7 +6,6 @@ public class Test {
 		// TODO Auto-generated method stub
 		// added comment in new branch
 		// edited from gitHub
-		// new commit from testDev locally 
 	}
 
 }
